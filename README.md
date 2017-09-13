@@ -24,6 +24,7 @@ Recursion levels can be set as well as height steps. Sharp edges are generated w
 
 Old gif of seed-changing with simplex noise seen below (contains stitching bug taken care of):
 
+
 <p align="center">
 <img src="img/planet.gif", width=50%>
 </p>
