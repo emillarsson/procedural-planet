@@ -26,5 +26,5 @@ Old gif of seed-changing with simplex noise seen below (contains stitching bug t
 
 
 <p align="center">
-<img src="img/planet.gif", width=50%>
+<img src="img/Planet.gif", width=50%>
 </p>
